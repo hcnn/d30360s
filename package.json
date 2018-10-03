@@ -1,0 +1,9 @@
+{
+  "name": "d30360s",
+  "version": "0.1.0",
+  "repo": "hcnn/d30360s",
+  "description": "Date difference in years according to the 30/360 ICMA daycount method",
+  "keywords": ["daycount", "date difference", "year fraction", "30/360 ICMA", "30/360 Eurobond Basis", "ISDA-2006", "30S/360 Special German"],
+  "license": "MIT",
+  "src": ["d30360s.c", "d30360s.h"]
+}
